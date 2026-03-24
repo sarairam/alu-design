@@ -25,3 +25,4 @@ Designed and implemented an 8-bit Arithmetic Logic Unit (ALU) using Verilog HDL 
 
 ## Output
 ![Waveform](outputs/waveform.png)
+Simulation waveform will be added after verification using Vivado.
